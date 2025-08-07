@@ -9,4 +9,4 @@ Chat: Ask a question → retrieve relevant chunks → send to LLM → get contex
 Citations: Show source docs and sections
 
 
-New changes are added 
+New changes are added.
